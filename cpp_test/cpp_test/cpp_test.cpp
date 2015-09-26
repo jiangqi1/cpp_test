@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// My first C++ code
 int main()
 {
 	int a, b;
