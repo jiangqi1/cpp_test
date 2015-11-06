@@ -23,6 +23,6 @@ int main()
 	cout << "size_of_int = " << size_of_int << '\n';
 	cout << "size_of_short = " << size_of_short<< '\n';
 	cout << "size_of_char = " << size_of_char;
-	cin >> c;
+	cin >> c; // compile by visual 2015
 	return 0;
 }
